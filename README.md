@@ -6,17 +6,14 @@ Program ini merupakan salah satu implementasi algoritma bruteforce dan backtrack
 
 Cara Menjalankan Program:
 
-1. Clone repository ini ke perangkat lokal:
-
-git clone <url-repo>
+1. Clone repository ini ke perangkat lokal
 
 2. Pastikan direktori sudah sesuai dengan struktur repository ini.
 
 3. Gunakan versi Java terbaru yang telah terinstal di perangkat.
 
-4. Jalankan program menggunakan perintah berikut di terminal:
+4. Jalankan program menggunakan perintah "java -cp bin IQPuzzlerGUI" di terminal:
 
-java -cp bin IQPuzzlerGUI
 
 Fitur:
 

@@ -12,7 +12,10 @@ Cara Menjalankan Program:
 
 3. Gunakan versi Java terbaru yang telah terinstal di perangkat.
 
-4. Jalankan program menggunakan perintah "java -cp bin IQPuzzlerGUI" di terminal:
+4. Jalankan program menggunakan perintah berikut di terminal:
+```sh
+java -cp bin IQPuzzlerGUI
+```
 
 
 Fitur:
@@ -24,3 +27,7 @@ Fitur:
 3. Menyimpan solusi yang ditemukan.
 
 4. Memecahkan persoalan custom yang diberikan oleh pengguna.
+
+## Created By
+
+Ferdinand Gabe Tua Sinaga (13523051)

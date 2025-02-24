@@ -1,0 +1,61 @@
+import java.awt.Color;
+
+public class ColorPalette {
+    public Color[] COLORS = {
+        new Color(255, 0, 0),       
+        new Color(0, 255, 0),       
+        new Color(0, 0, 255),       
+        new Color(255, 255, 0),     
+        new Color(255, 165, 0),     
+        new Color(128, 0, 128),     
+        new Color(0, 255, 255),   
+        new Color(255, 192, 203),   
+        new Color(139, 69, 19),   
+        new Color(128, 128, 128),   
+        new Color(0, 128, 128),     
+        new Color(75, 0, 130),      
+        new Color(240, 230, 140), 
+        new Color(60, 179, 113),   
+        new Color(123, 104, 238),   
+        new Color(255, 20, 147),   
+        new Color(210, 105, 30),   
+        new Color(30, 144, 255),    
+        new Color(154, 205, 50),   
+        new Color(47, 79, 79),     
+        new Color(218, 112, 214),   
+        new Color(0, 191, 255),   
+        new Color(176, 224, 230),   
+        new Color(250, 128, 114),
+        new Color(189, 183, 107),   
+        new Color(255, 69, 0)      
+    };
+  
+    public String[] COLORSANSI = {
+      "\u001B[31m", 
+      "\u001B[32m", 
+      "\u001B[33m", 
+      "\u001B[34m", 
+      "\u001B[35m", 
+      "\u001B[36m", 
+      "\u001B[91m",
+      "\u001B[92m", 
+      "\u001B[93m",
+      "\u001B[94m", 
+      "\u001B[95m", 
+      "\u001B[96m", 
+      "\u001B[30m",
+      "\u001B[90m",
+      "\u001B[37m", 
+      "\u001B[97m", 
+      "\u001B[38;5;202m", 
+      "\u001B[38;5;208m", 
+      "\u001B[38;5;214m", 
+      "\u001B[38;5;220m", 
+      "\u001B[38;5;226m", 
+      "\u001B[38;5;190m", 
+      "\u001B[38;5;154m",
+      "\u001B[38;5;118m", 
+      "\u001B[38;5;27m",  
+      "\u001B[38;5;21m"   
+    };
+  }
